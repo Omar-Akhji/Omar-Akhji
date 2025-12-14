@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I specialize in modern web development with a focu
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="48" height="48" style="margin-right:8px"/></a>
 	<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" width="48" height="48" style="margin-right:8px"/></a>
 	<a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin-right:8px"/></a>
+	<a href="https://redux.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="48" height="48" style="margin-right:8px"/></a>
 	<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-plain.svg" alt="Next.js" width="48" height="48" style="margin-right:8px"/></a>
 	<a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="48" height="48" style="margin-right:8px"/></a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="48" height="48" style="margin-right:8px"/></a>
@@ -54,8 +55,6 @@ Welcome to my GitHub profile! I specialize in modern web development with a focu
 </p>
 
 ---
-
-
   💻 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 </div>
 

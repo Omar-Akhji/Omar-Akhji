@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a [your profession/role], passionate about [in
 
 <p align="left">
 	<a href="https://www.flaticon.com/free-icon/html-5_888859?term=html&page=1&position=4&origin=search&related_id=888859" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" alt="HTML5" width="48" height="48" style="margin-right:8px"/></a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin-right:8px"/></a>
+	<a href="https://www.flaticon.com/free-icon/css_888847?term=css&page=1&position=13&origin=search&related_id=888847" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/888/888847.png" alt="CSS3" width="48" height="48" style="margin-right:8px"/></a>
 	<a href="https://www.flaticon.com/free-icon/java-script_1199124?term=javascript&page=1&position=1&origin=style&related_id=1199124" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" alt="JavaScript" width="48" height="48" style="margin-right:8px"/></a>
 	<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin-right:8px"/></a>
 	<a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="48" height="48" style="margin-right:8px"/></a>

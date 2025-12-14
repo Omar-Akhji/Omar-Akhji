@@ -18,11 +18,11 @@ Welcome to my GitHub profile! I'm a [your profession/role], passionate about [in
 	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin-right:8px"/></a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin-right:8px"/></a>
 	<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin-right:8px"/></a>
-	<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="48" height="48" style="margin-right:8px"/></a>
+	<a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="48" height="48" style="margin-right:8px"/></a>
 	<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin-right:8px"/></a>
 	<a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="48" height="48" style="margin-right:8px"/></a>
-	<a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="48" height="48" style="margin-right:8px"/></a>
-	<a href="https://www.prisma.io/" target="_blank"><img src="https://raw.githubusercontent.com/prisma/artwork/main/prisma-icon.svg" alt="Prisma" width="48" height="48" style="margin-right:8px"/></a>
+	<a href="https://nestjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="48" height="48" style="margin-right:8px"/></a>
+	<a href="https://www.prisma.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/prisma/artwork@master/prisma-icon.svg" alt="Prisma" width="48" height="48" style="margin-right:8px"/></a>
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omar-Akhji&show_icons=true&theme=tokyonight)

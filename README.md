@@ -6,8 +6,6 @@
   ### Full Stack Web Developer
   
   Building modern web applications with React, Next.js, TypeScript & Node.js
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=Omar-Akhji&style=flat-square)
 </div>
 
 ---

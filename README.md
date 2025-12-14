@@ -17,6 +17,7 @@ Welcome to my GitHub profile! I specialize in modern web development with a focu
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 <p align="left">
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="48" height="48" style="margin-right:8px"/></a>
 	<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" width="48" height="48" style="margin-right:8px"/></a>
@@ -28,6 +29,7 @@ Welcome to my GitHub profile! I specialize in modern web development with a focu
 </p>
 
 ### Backend
+
 <p align="left">
 	<a href="https://nestjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="48" height="48" style="margin-right:8px"/></a>
 	<a href="https://www.prisma.io/" target="_blank"><img src="https://raw.githubusercontent.com/prisma/artwork/main/prisma-wordmark.svg" alt="Prisma" width="48" height="48" style="margin-right:8px"/></a>
@@ -53,9 +55,7 @@ Welcome to my GitHub profile! I specialize in modern web development with a focu
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Omar-Akhji&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  
+
   💻 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 </div>
 

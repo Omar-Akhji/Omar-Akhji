@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a [your profession/role], passionate about [in
 	<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" width="48" height="48" style="margin-right:8px"/></a>
 	<a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="48" height="48" style="margin-right:8px"/></a>
 	<a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin-right:8px"/></a>
-	<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="48" height="48" style="margin-right:8px"/></a>
+	<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-plain.svg" alt="Next.js" width="48" height="48" style="margin-right:8px"/></a>
 	<a href="https://nestjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="48" height="48" style="margin-right:8px"/></a>
 	<a href="https://www.prisma.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/prisma/artwork@main/prisma-wordmark.svg" alt="Prisma" width="48" height="48" style="margin-right:8px"/></a>
 </p>

@@ -2,303 +2,476 @@
 
 <!-- Typing animation hero tagline -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Omar+Akhji+%F0%9F%91%8B;Full+Stack+Web+Developer;React%2C+Vue+%26+Astro+Specialist;Building+Scalable+Web+Systems;Cloud+%26+Microservices+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Omar+Akhji+%F0%9F%91%8B;Full+Stack+Web+Developer;JavaScript+%26+TypeScript+Specialist;React%2C+Vue+%26+Astro+Craftsman;Building+High-Performance+Web+Systems" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 # Omar Akhji
 
-**Full Stack Web Developer · React, Vue & Astro Specialist · Building Scalable Systems · Cloud & Modern Web**
-
-I build high-performance web applications, resilient backend architectures, and polished user experiences — currently focused on writing clean, modular systems and scaling them efficiently.
+**Full Stack Web Developer · React, Vue & Astro Specialist · Building Scalable Systems**
 
 <br/>
+
+I build high-performance web applications, resilient backend architectures, and polished user experiences — focused on clean, modular architecture, microservices, and modern web design systems.
+
+<br/><br/>
 
 <p align="center">
-<a href="https://linkedin.com/in/omar-akhji">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
-</a>
-<a href="https://github.com/Omar-Akhji">
-<img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
-</a>
-<a href="mailto:omar.akhji@um5r.ac.ma">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" alt="Email" />
-</a>
+  <a href="https://linkedin.com/in/omar-akhji" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="46" height="46" class="rounded-full" style="border-radius: 50%;" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Omar-Akhji" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" width="46" height="46" class="rounded-full" style="border-radius: 50%;" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:omar.akhji@um5r.ac.ma">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="46" height="46" class="rounded-full" style="border-radius: 50%;" alt="Email" />
+  </a>
 </p>
+
 </div>
 
-<br/>
+<br/><br/>
 
 ---
+
+<br/>
 
 ## 🧭 About Me
 
-I'm a **Full Stack Web Developer** based in Rabat, Morocco, focused on high-craft frontends, microservices architecture, and scalable software solutions.
+<br/>
 
-- 🔭 Building modern, resilient web applications with **Astro, React, Vue, Node.js, and TypeScript**
-- 🌱 Exploring **Microservices, Cloud Infrastructure (AWS & Docker), Distributed Caching (Redis), and Generative AI**
-- 🤝 Interested in **open-source collaboration, software design patterns, and real-world system architecture**
-- ⚡ I believe in **delivering tangible impact through craft, performance, and iterative learning**
+I'm a **Full Stack Web Developer** based in Rabat, Morocco, with a strong engineering foundation in responsive frontends, modular APIs, and distributed architectures.
+
+<br/>
+
+- 🔭 Building high-performance web applications with **Astro, React, Vue, Node.js, and TypeScript**
+- ⚡ Experienced with **Microservices, Redis Caching, CI/CD Pipelines, and RESTful APIs**
+- 🌱 Exploring **Cloud Infrastructure (AWS & Docker), Distributed Systems, and Modern Frontend Craft**
+- 🤝 Actively contributing to **real-world software solutions, clean code architectures, and developer ecosystems**
+
+<br/><br/>
 
 ---
+
+<br/>
 
 ### 🛠️ What I'm Currently Building
 
+<br/>
+
 <table>
 <tr>
 <td valign="top" width="50%">
+
+<br/>
 
 **Full-Stack Web Applications**  
-Engineering modular web applications with modern ecosystems (Astro, React, Vue, TypeScript, Hono, Express), focused on clean architecture, zero-friction DX, and real-world usability rather than tutorial clones.
+Developing modular web applications leveraging Astro, React, Vue, TypeScript, and Node.js. Focused on sub-second load times, accessible design systems, and practical usability.
+
+<br/>
 
 </td>
 <td valign="top" width="50%">
 
-**AI-Powered & Real-Time Tools**  
-Architecting real-time WebSocket applications, OpenAI-driven utilities, and data-dense dashboards with sub-second response times and minimal layout shifts.
+<br/>
+
+**Real-Time & AI-Enhanced Tools**  
+Architecting real-time collaborative applications with WebSockets (Socket.io), LLM-powered summarizers, and interactive financial dashboards with live data pipelines.
+
+<br/>
 
 </td>
 </tr>
 </table>
 
+<br/><br/>
+
 ---
 
-### 📚 Current Learning
+<br/>
+
+### 📚 Current Focus & Learning
+
+<br/>
 
 <table>
 <tr>
-<td>⚡ Astro & Bun</td>
-<td>⚛️ React & Vue 3</td>
-<td>🐳 Docker & Microservices</td>
-<td>☁️ AWS & Cloud Deployments</td>
-<td>🏗️ Scalable Systems & Redis</td>
+<td align="center" width="20%"><b>⚡ Astro & Modern Web</b></td>
+<td align="center" width="20%"><b>⚛️ React & Vue Ecosystems</b></td>
+<td align="center" width="20%"><b>🐳 Docker & CI/CD</b></td>
+<td align="center" width="20%"><b>☁️ AWS & Cloud Systems</b></td>
+<td align="center" width="20%"><b>🏗️ Redis & Scalable APIs</b></td>
 </tr>
 </table>
 
+<br/><br/>
+
 ---
+
+<br/>
 
 ### 💻 Tech Stack
 
+<br/>
+
 <table>
 <tr>
-<td valign="top" width="16.6%">
+
+<td valign="top" align="center" width="16.6%">
+
+<br/>
 
 **Languages**
 
-![TS](https://skillicons.dev/icons?i=ts)
-![JS](https://skillicons.dev/icons?i=js)
-![Python](https://skillicons.dev/icons?i=python)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
+<br/>
+
+<img src="https://skillicons.dev/icons?i=js" width="44" height="44" class="rounded-full" style="border-radius: 50%;" alt="JavaScript" title="JavaScript" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=ts" width="44" height="44" class="rounded-full" style="border-radius: 50%;" alt="TypeScript" title="TypeScript" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=py" width="44" height="44" class="rounded-full" style="border-radius: 50%;" alt="Python" title="Python" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=html" width="44" height="44" class="rounded-full" style="border-radius: 50%;" alt="HTML5" title="HTML5" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=css" width="44" height="44" class="rounded-full" style="border-radius: 50%;" alt="CSS3" title="CSS3" />
+
+<br/><br/>
 
 </td>
-<td valign="top" width="16.6%">
+
+<td valign="top" align="center" width="16.6%">
+
+<br/>
 
 **Frontend**
 
-![Astro](https://skillicons.dev/icons?i=astro)
-![React](https://skillicons.dev/icons?i=react)
-![Vue](https://skillicons.dev/icons?i=vue)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Sass](https://skillicons.dev/icons?i=sass)
-![Vite](https://skillicons.dev/icons?i=vite)
+<br/>
+
+<img src="https://skillicons.dev/icons?i=astro" width="44" height="44" class="rounded-full" style="border-radius: 50%;" alt="Astro" title="Astro" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react" width="44" height="44" class="rounded-full" style="border-radius: 50%;" alt="React" title="React" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=vue" width="44" height="44" class="rounded-full" style="border-radius: 50%;" alt="Vue.js" title="Vue.js" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=tailwind" width="44" height="44" class="rounded-full" style="border-radius: 50%;" alt="Tailwind CSS" title="Tailwind CSS" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=sass" width="44" height="44" class="rounded-full" style="border-radius: 50%;" alt="Sass" title="Sass" />
+
+<br/><br/>
 
 </td>
-<td valign="top" width="16.6%">
+
+<td valign="top" align="center" width="16.6%">
+
+<br/>
 
 **Backend**
 
-![Node](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![Laravel](https://skillicons.dev/icons?i=laravel)
-![Socket.io](https://skillicons.dev/icons?i=socketio)
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs" width="44" height="44" class="rounded-full" style="border-radius: 50%;" alt="Node.js" title="Node.js" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=express" width="44" height="44" class="rounded-full" style="border-radius: 50%;" alt="Express" title="Express" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=laravel" width="44" height="44" class="rounded-full" style="border-radius: 50%;" alt="Laravel" title="Laravel" />
+
+<br/><br/>
 
 </td>
-<td valign="top" width="16.6%">
+
+<td valign="top" align="center" width="16.6%">
+
+<br/>
 
 **Database**
 
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Redis](https://skillicons.dev/icons?i=redis)
+<br/>
+
+<img src="https://skillicons.dev/icons?i=mysql" width="44" height="44" class="rounded-full" style="border-radius: 50%;" alt="MySQL" title="MySQL" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=redis" width="44" height="44" class="rounded-full" style="border-radius: 50%;" alt="Redis" title="Redis" />
+
+<br/><br/>
 
 </td>
-<td valign="top" width="16.6%">
+
+<td valign="top" align="center" width="16.6%">
+
+<br/>
 
 **Cloud & Deploy**
 
-![AWS](https://skillicons.dev/icons?i=aws)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Vercel](https://skillicons.dev/icons?i=vercel)
-![Netlify](https://skillicons.dev/icons?i=netlify)
+<br/>
+
+<img src="https://skillicons.dev/icons?i=aws" width="44" height="44" class="rounded-full" style="border-radius: 50%;" alt="AWS" title="AWS" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=docker" width="44" height="44" class="rounded-full" style="border-radius: 50%;" alt="Docker" title="Docker" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=vercel" width="44" height="44" class="rounded-full" style="border-radius: 50%;" alt="Vercel" title="Vercel" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=netlify" width="44" height="44" class="rounded-full" style="border-radius: 50%;" alt="Netlify" title="Netlify" />
+
+<br/><br/>
 
 </td>
-<td valign="top" width="16.6%">
 
-**Tools & Workflow**
+<td valign="top" align="center" width="16.6%">
 
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Bun](https://skillicons.dev/icons?i=bun)
-![Postman](https://skillicons.dev/icons?i=postman)
+<br/>
+
+**Tools**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=git" width="44" height="44" class="rounded-full" style="border-radius: 50%;" alt="Git" title="Git" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=github" width="44" height="44" class="rounded-full" style="border-radius: 50%;" alt="GitHub" title="GitHub" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=bun" width="44" height="44" class="rounded-full" style="border-radius: 50%;" alt="Bun" title="Bun" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=postman" width="44" height="44" class="rounded-full" style="border-radius: 50%;" alt="Postman" title="Postman" />
+
+<br/><br/>
 
 </td>
+
 </tr>
 </table>
 
+<br/><br/>
+
 ---
+
+<br/>
 
 ### 📊 GitHub Activity
 
-<div align="center">
-<div>
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Omar-Akhji&theme=tokyonight" alt="GitHub Summary Stats"/>
-  
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omar-Akhji&theme=tokyonight" alt="GitHub Profile Details"/>
-</div>
-<div align="center">
 <br/>
-  
-  [![Omar's Git Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Omar-Akhji&langs_count=4&theme=dark)](https://github.com/Omar-Akhji)
-<img src="https://github-stats-extended.vercel.app/api/?username=Omar-Akhji&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Omar%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="Contribution Activity Graph" width="46%"/>
+
+<div align="center">
+
+<div>
+  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Omar-Akhji&theme=tokyonight" alt="GitHub Summary Stats" />
+  &nbsp;&nbsp;
+  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omar-Akhji&theme=tokyonight" alt="GitHub Profile Details" />
 </div>
 
+<br/><br/>
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Omar-Akhji&langs_count=4&theme=dark" alt="Top Languages" width="42%" />
+  &nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/?username=Omar-Akhji&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Omar%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="Contribution Activity Graph" width="49%" />
+</div>
+
+</div>
+
+<br/><br/>
+
 ---
+
+<br/>
 
 ## 🔥 Contribution Streak
 
+<br/>
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Omar-Akhji&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com?user=Omar-Akhji&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
+<br/><br/>
+
 ---
+
+<br/>
 
 ![Snake animation](https://raw.githubusercontent.com/Omar-Akhji/Omar-Akhji/output/github-contribution-grid-snake.svg)
 
+<br/><br/>
+
 ---
 
+<br/>
+
 ### 🚀 Featured Projects
+
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
+<br/>
+
 **Task Manager**
 
-Real-time collaborative Kanban board featuring task assignments, progress meters, and live team comments.
+Real-time collaborative Kanban board featuring task assignments, visual progress tracking, and live team comments.
+
+<br/>
 
 `Tech:` React · Zustand · Express · Socket.io  
 `Key Feature:` Real-time multi-user synchronization with Socket.IO
 
+<br/>
+
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/omar-akhji/collab-task-manager)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://taskmanager-collab.vercel.app)
 
+<br/>
+
 </td>
 <td width="50%" valign="top">
+
+<br/>
 
 **Finance Tracker**
 
 A comprehensive personal finance tracker offering real-time expense charts, category budgeting, and bank statement importing.
 
+<br/>
+
 `Tech:` React · Node.js · ChartJS · TailwindCSS  
 `Key Feature:` Interactive financial analytics and budgeting dashboards
 
+<br/>
+
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/omar-akhji/finance-app)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://finance-app-demo.vercel.app)
+
+<br/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
+<br/>
+
 **Summary (AI Article Summarizer)**
 
 An AI-powered web tool that turns long research articles or news links into digestible, high-value bullet-point summaries.
 
+<br/>
+
 `Tech:` React · OpenAI API · Node.js · Express  
 `Key Feature:` Automated article extraction and LLM summarization pipeline
+
+<br/>
 
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/omar-akhji/ai-article-summarizer)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](#)
 
+<br/>
+
 </td>
 <td width="50%" valign="top">
+
+<br/>
 
 **Arrival Logistics**
 
 Logistics and shipping tracking application featuring interactive route maps and estimated time of arrivals (ETAs).
 
+<br/>
+
 `Tech:` Vue 3 · TailwindCSS · Mapbox API · Node.js  
 `Key Feature:` Geospatial route mapping with live tracking checkpoints
 
+<br/>
+
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/omar-akhji/arrival-logistics)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+
+<br/>
 
 </td>
 </tr>
 </table>
 
-<!--
-🐍 Animated contribution snake — this eats your own contribution graph and updates daily.
-Setup required (one-time, ~2 minutes):
-1. Go to your profile repo → Settings → Actions → General → enable "Read and write permissions".
-2. Add this GitHub Actions workflow file at .github/workflows/snake.yml :
-
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake
-        with:
-          github_user_name: Omar-Akhji
-          outputs: dist/github-contribution-grid-snake.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-3. Once it runs once, uncomment the line below (replace the branch URL if different):
--->
+<br/><br/>
 
 ---
+
+<br/>
 
 ### 🧠 Philosophy
 
+<br/>
+
 > Ship it, understand the architecture, maintain high craft — then build it better.
+
+<br/><br/>
 
 ---
 
+<br/>
+
 ## 📬 Connect With Me
 
+<br/>
+
 <p align="center">
-<a href="https://linkedin.com/in/omar-akhji">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
-</a>
-<a href="https://github.com/Omar-Akhji">
-<img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
-</a>
-<a href="mailto:omar.akhji@um5r.ac.ma">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" alt="Email" />
-</a>
-<p>Let's build something extraordinary together!</p>
+  <a href="https://linkedin.com/in/omar-akhji" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="46" height="46" class="rounded-full" style="border-radius: 50%;" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Omar-Akhji" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" width="46" height="46" class="rounded-full" style="border-radius: 50%;" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:omar.akhji@um5r.ac.ma">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="46" height="46" class="rounded-full" style="border-radius: 50%;" alt="Email" />
+  </a>
 </p>
 
 <br/>
 
+<p align="center">
+  Let's build something extraordinary together!
+</p>
+
+<br/><br/>
+
 <div align="center">
-<sub>Always building, always learning — thanks for stopping by.</sub>
+  <sub>Always building, always learning — thanks for stopping by.</sub>
 </div>
